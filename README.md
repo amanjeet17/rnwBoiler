@@ -77,3 +77,9 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# USe full Link
+- https://dev.to/shivams136/create-react-native-app-for-android-ios-and-web-without-expo-48lc
+- https://gist.github.com/arrygoo/81d95ecc55313a7d0668f6711cfc7ff9
+- https://pankajhasmukh2014.medium.com/transition-existing-react-native-app-into-web-react-native-web-2654f9d46907
+- https://www.youtube.com/watch?v=5fLfiNUSALwhttps://gist.github.com/arrygoo/81d95ecc55313a7d0668f6711cfc7ff9
